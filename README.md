@@ -1,2 +1,2 @@
 # UserAddressActivity
-Prosta aplikacija za unus i cuvanje podataka o korisnicima njihovim adresama i aktivnostima, Koristio sam  Spring i Angular
+Prosta aplikacija za unos i cuvanje podataka o korisnicima njihovim adresama i aktivnostima, uradjena u kombinaciji Spring i Angular
